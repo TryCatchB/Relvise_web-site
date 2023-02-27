@@ -43,6 +43,12 @@
   line-height: 171%;
 }
 
+.menu__link:hover {
+  color: #000000;
+  text-decoration: underline;
+  transition: color 0.3s ease-in-out;
+}
+
 /* MEDIA (TABLET) */
 
 @media (max-width: 992px) {
