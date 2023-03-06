@@ -1,12 +1,6 @@
-/* FOOTER__TOP */
-
 .footer__top {
   padding: 35px 0;
   background-color: #17213c;
-}
-
-.footer__main {
-  display: flex;
 }
 
 .footer__row {
