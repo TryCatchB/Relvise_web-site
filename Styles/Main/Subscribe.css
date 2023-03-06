@@ -65,6 +65,11 @@
   padding: 0px 22px;
 }
 
+.subscribe__button:hover {
+  background-color: #ca6137;
+  transition: background-color 0.3s ease-in-out;
+}
+
 /* MEDIA (PC) */
 
 @media (min-width: 1070px) {

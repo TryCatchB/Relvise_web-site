@@ -56,7 +56,8 @@
 }
 
 .main-block__button_orange:hover {
-  background-color: #ee5b20;
+  color: #ff7b47;
+  background-color: #fff;
   transition: background-color 0.3s ease-in-out;
 }
 
@@ -66,7 +67,9 @@
 }
 
 .main-block__button_border:hover {
-  opacity: 0.6;
+  color: #fff;
+  background-color: #0d5c63;
+  transition: background-color 0.3s ease-in-out;
 }
 
 .main-block__image {
