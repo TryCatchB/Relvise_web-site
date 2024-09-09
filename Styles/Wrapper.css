@@ -40,12 +40,14 @@ ul {
   margin: 0px;
 }
 
+/* ******************************** */
+
 body {
   font-family: Montserrat;
   font-weight: 500;
   height: 100%;
   line-height: 1;
-  font-size: 14px;
+  font-size: 0.875rem;
   color: #252b42;
   background-color: #fafafa;
 }
@@ -58,8 +60,8 @@ body {
 }
 
 ._container {
-  max-width: 1046px;
-  padding: 0px 15px;
+  max-width: 65.375rem;
+  padding: 0px 0.9375rem;
   margin: 0px auto;
   box-sizing: content-box;
 }
